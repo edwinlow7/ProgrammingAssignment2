@@ -56,7 +56,3 @@ cacheSolve <- function(x, ...) {
 	x$setInverse(newInv)
 	newInv
 }
-
-	
-
-	 
